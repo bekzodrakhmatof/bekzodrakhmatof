@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Bekzod's github ranking](https://api.fizmasoft.uz/mcard/rank?username=bekzodrakhmatof&country_code=south_korea)](https://github.com/bekzodrakhmatof)
 <!--
 **bekzodrakhmatof/bekzodrakhmatof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
