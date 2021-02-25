@@ -25,8 +25,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekzodrakhmatof&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Bekzod's github stats](https://github-readme-stats.vercel.app/api?username=bekzodrakhmatof&count_private=true&include_all_commits&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodrakhmatof" alt="Bekzod" /> </p> 
 
 <!--[![Bekzod's github ranking](https://api.fizmasoft.uz/mcard/rank?username=bekzodrakhmatof&country_code=south_korea)](https://github.com/bekzodrakhmatof) -->
