@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Bekzod an iOS Developer at [KeyWe SmartLock](https://github.com/KeyWeSmart)
+### I am Bekzod an iOS Developer at [KeyWe](https://github.com/KeyWeSmart)
 
 ### More than happy to connect:
 
