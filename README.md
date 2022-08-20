@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I am Bekzod an iOS Developer at [KeyWe](https://github.com/KeyWeSmart)
+### I am Bekzod an iOS Developer at [Sesame Lab](https://github.com/KeyWeSmart)
 
 ### More than happy to connect:
 
