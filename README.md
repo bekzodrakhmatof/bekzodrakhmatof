@@ -1,13 +1,11 @@
-### Hi there 👋
-
-### I am Bekzod an iOS Developer at [Sesame Lab](https://github.com/KeyWeSmart)
+### Senior an iOS developer at [Sesame Lab](https://github.com/KeyWeSmart)
 
 ### More than happy to connect:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;">][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://camo.githubusercontent.com/eacc870029bca30353239d9d629076ba4c18de75/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f747769747465722e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="max-width:100%;">][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="max-width:100%;">][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://camo.githubusercontent.com/8ea1156d8ac160172cbef7a54a19bad16a73ebe4/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="max-width:100%;">][instagram]
+[<img align="left" width="22px" src="https://user-images.githubusercontent.com/23249828/196100600-d8eee4c9-7525-4b0f-8e4c-7794cf595efc.png" style="max-width:100%;">][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://user-images.githubusercontent.com/23249828/196100598-f2d51287-e0bc-457c-8c44-56bcd3d241cf.png" style="max-width:100%;">][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://user-images.githubusercontent.com/23249828/196100595-1d94713b-0d29-4970-861c-912e36d69db8.png" style="max-width:100%;">][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://user-images.githubusercontent.com/23249828/196100593-2c7f1d59-97d4-4f2b-925a-79d39eb842d1.png" style="max-width:100%;">][instagram]
 
 <br/>
 
@@ -25,8 +23,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bekzodrakhmatof" alt="Bekzod" /> </p> 
 
-[website]: https://thekeywe.com/
-[twitter]: https://twitter.com/bekzodrakhmatof
+[website]: https://www.sesame-lab.com/
+[twitter]: https://twitter.com/bekzodrakhmatof/
 [linkedin]: https://www.linkedin.com/in/bekzodrakhmatov/
 [instagram]: https://www.instagram.com/bekzodrakhmatof/
 
