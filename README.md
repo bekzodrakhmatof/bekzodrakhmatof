@@ -1,4 +1,4 @@
-### Senior an iOS developer at [Sesame Lab](https://github.com/KeyWeSmart)
+### Senior an iOS developer
 
 ### More than happy to connect:
 
